@@ -2,8 +2,3 @@ some song
 should be here
 more lines
 of the song
-
-lines of song
-lines of song
-this text should be strong
-why previous line is so long
